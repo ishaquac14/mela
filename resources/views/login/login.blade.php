@@ -28,7 +28,7 @@
 
         <!-- Outer Row -->
         <div class="row justify-content-center mt-5">
-            <div class="card text-center col-lg-5">
+            <div class="card text-center col-lg-4">
                 <div class="card-header">
                     <img src="{{ url('frontend/images/logo.png') }}" alt="" width="200" height="20">
                 </div>
@@ -52,7 +52,7 @@
                                     Me</label>
                             </div>
                         </div>
-                        <a href="index.html" class="btn btn-primary btn-user btn-block">
+                        <a href="#" class="btn btn-primary btn-user btn-block">
                             Login
                         </a>
                     </form>
